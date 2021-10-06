@@ -1,0 +1,25 @@
+{
+  "name": "learning_typescript",
+  "version": "1.0.0",
+  "description": "build for learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhongjunyao/LearningTypescript.git"
+  },
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "RobinZhong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhongjunyao/LearningTypescript/issues"
+  },
+  "homepage": "https://github.com/zhongjunyao/LearningTypescript#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
